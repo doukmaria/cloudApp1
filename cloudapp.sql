@@ -2,7 +2,7 @@ CREATE DATABASE  IF NOT EXISTS `cloudapp` /*!40100 DEFAULT CHARACTER SET latin1 
 USE `cloudapp`;
 -- MySQL dump 10.13  Distrib 5.6.13, for Win32 (x86)
 --
--- Host: localhost    Database: cloudapp
+-- Host: 54.76.240.41    Database: cloudapp
 -- ------------------------------------------------------
 -- Server version	5.5.27
 
