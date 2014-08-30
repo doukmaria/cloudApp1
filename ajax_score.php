@@ -1,7 +1,7 @@
 <?php
 
 include("db.class.php");
-$db = new DB('cloudapp', '54.72.59.103', 'root', '');
+$db = new DB('cloudapp', '54.76.240.41', 'root', '');
 
 $theUser = $_POST['theUser'];
 $theScore = $_POST['theScore'];
